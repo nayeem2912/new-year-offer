@@ -1,0 +1,410 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.banner-new-year{
+    background-image: linear-gradient(0deg, #07021100, #070211),url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin: 50px 140px 120px 140px;  
+   border-radius: 16px; 
+}
+.new-year-title{
+    position: absolute;
+    width: 259px;
+    height: 40px;
+    left: 670px;
+    right: -297px;
+    top: 227px;
+    bottom: -21px; 
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: center;
+
+
+}
+.new-year-subtitle{
+    position: absolute;
+width: 632px;
+height: 190px;
+left: 484px;
+right: -484px;
+top: 283px;
+bottom: -227px;
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+letter-spacing: 0%;
+text-align: center;
+}
+.new-year-photo{
+    position: absolute;
+width: 802.9px;
+height: 806px;
+left: 399px;
+right: 398.1px;
+top: 700px;
+bottom: 5759px;
+}
+.percentage{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0%;
+text-align: center;
+}
+.holiday{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+.categories{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
+.new-yr-image{
+    background: url(happy-new-year-3d-letters-sign-coloful-background-blurred-fireworks-2024-new-year-party);
+}
+.midnight-party{
+    border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('../images/Vectorrr.png');
+background-repeat: no-repeat;
+background-size: auto;
+background-position: center;
+width: 1320px;
+height: 600px;
+display: flex;
+justify-content: center;
+align-items: center;
+left: 10.61%;
+right: -10.61%;
+top: 282.67%;
+bottom: -282.67%;  
+border-radius: 16px; 
+margin: 1200px 140px 0px 140px;
+}
+.welcome{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 11%;
+    text-align: left;
+    margin: 0px 552px 0px 126px;
+}
+.party-description{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+margin: 0px 497px 0px 126px;
+}
+
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+margin: 0px 1059px 0px 158px;
+}
+.grp-70{position: absolute;
+    width: 319.83px;
+    height: 464.66px;
+    left: 1002.17px;
+    right: -2px;
+    top: 1920.11px;
+    bottom: -1628.77px;
+    margin: 0px 0px 69px 0px;
+}
+.date-time{
+    position: absolute;
+width: 1320px;
+height: 482px;
+left: 7.61%;
+right: -10.61%;
+top: 265%;
+bottom: -501.24%;
+border-radius: 16px;
+
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
+.span{
+    color: rgb(255, 0, 0);
+}
+.place{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+margin: 150px 385px 214px 385px;
+color: rgb(7, 2, 17);
+}
+.celebration{
+    position: absolute;
+width: 1320px;
+height: 463px;
+left: 140px;
+right: 140px;
+top: 3050px;
+bottom: 3854px;
+}
+.best{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: 0%;
+margin: 0px 1000px 0px 10px;
+}
+.soon{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.dolor{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+margin: 0px 900px 0px 10px;
+}
+.ellipse{
+    /* Ellipse 1 */
+position: absolute;
+width: 364.84px;
+height: 364.84px;
+left: 440.08px;
+right: -553.92px;
+top: -10px;
+bottom: -2968.92px;
+}
+.info{
+    /* Group 18 */
+position: absolute;
+width: 276px;
+height: 170px;
+left: 900px;
+right: -1184px;
+top: -10px;
+bottom: -3130px;
+}
+.t-2024{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: left;
+}
+.sit{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.function{
+    position: absolute;
+width: 1068px;
+height: 260px;
+left: 150px;
+right: -14px;
+top: 3601px;
+bottom: -2874.93px;
+/* display: flex; */
+/* justify-content: center; */
+}
+.function h3{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+.function h1{
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 91px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 16px;
+}
+.function p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 450;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 15px;
+}
+.discount{
+    /* Group 79 */
+position: absolute;
+width: 1320px;
+height: 662.07px;
+left: 140px;
+right: -140px;
+top: 3925px;
+bottom: -3601px;
+background-image: url(../images/Rectangle\ 2.png);
+background-repeat: no-repeat;
+background-position: bottom;
+}
+.grp-44{
+   margin: 5px 50px 300px 0px;
+}
+.images{
+    /* Group 80 */
+position: absolute;
+width: 1320px;
+height: 1163px;
+left: 140px;
+right: -140px;
+top: 4707.07px;
+bottom: -4707.07px;
+}
+.gifts h3{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.gifts h1{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.gifts p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.subscribe{
+    /* Rectangle 11 */
+position: absolute;
+width: 1320px;
+height: 616px;
+left: 140px;
+right: -140px;
+top: 5990.07px;
+bottom: -5990.07px;
+}
+.grp-61{
+    padding: 80px 212px 200px 212px;
+}
+.grp-61 img{
+   
+position: relative;
+width: 150px;
+height: 150px;
+padding: 0px 373px 0px 373px;
+}
+.grp-61 h1{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+
+}
+.grp-61 p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+}
+.button{ 
+    
+    text-align: center;
+    text-transform: capitalize;
+}
+.email{
+ padding: 25px 267px 25px 30px;
+ 
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+}
+.sub{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 24px 56px 24px 56px;
+    border-radius: 0px 50px 50px 0px;
+
+background: rgb(255, 0, 0);
+}
